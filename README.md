@@ -1,2 +1,2 @@
 # etch-sketch
-Dom manipulation
+Dom manipulation, Grid Layout, Flexbox
